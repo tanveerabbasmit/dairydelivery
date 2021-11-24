@@ -1,0 +1,69 @@
+.table-fixed thead {
+    width: 100%;
+
+}
+
+.table-fixed tbody {
+     height: 500px;
+    /*height: 300px;*/
+    overflow-y: auto;
+    width: 100%;
+    width: 100%;background-color: white
+}
+.table-fixed thead, .table-fixed tbody, .table-fixed tr, .table-fixed td, .table-fixed th {
+    display: block;
+}
+.table-fixed tbody td, .table-fixed thead > tr> th {
+    float: left;
+    border-bottom-width: 0;
+}
+
+
+#customers {
+
+    border-collapse: collapse;
+    width: 100%;
+}
+#head_tr {
+
+    width: 98.5%;background-color: #F0F8FF
+}
+
+#customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 0px;
+    color: black;
+    height: 70px !important;
+    font-size: 14px !important;
+    text-align: center;
+   
+}
+
+#customers tr:nth-child(even){background-color: #F8F8FF;}
+
+#customers tr:hover {background-color: #FAFAD2;}
+
+#customers th {
+    background-color: #F0F8FF;color: #259dab;
+    padding-top:10px;
+}
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: green;
+    border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #b30000;
+}

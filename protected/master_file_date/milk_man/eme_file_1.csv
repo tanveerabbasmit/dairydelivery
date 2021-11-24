@@ -1,0 +1,84 @@
+full Name, UserName  (login name),password,quantity,Address1,ZONE,Cell No 1,Cell No2 (optional),Residence Phone No (optional),Payment Term(0 for Credit 1 for advance ), product_name,,product_id
+ABUL HASSAN,,,D-8,109-F,Dha eme sector,,,,0,mix,,112
+jawad,,,d-1,108-F,Dha eme sector,,,,0,buffalo,120,111
+139-f,,,alt-3,139-f,Dha eme sector,,,,0,buffalo,,111
+40-F,,,d-3,40-F,Dha eme sector,,,,0,mix,,112
+320-E,,,alt-2,320-e,Dha eme sector,,,,0,buffalo,,111
+327-E,,,d-2,327-E,Dha eme sector,,,,0,buffalo,,111
+464-E,,,d-1,464-E,Dha eme sector,,,,0,cow,,110
+117-E,,,d-2,117-E,Dha eme sector,,,,0,buffalo,130,111
+120-E,,,d-2,120-E,Dha eme sector,,,,0,mix,115,112
+Nouman Nisar,,,d-4,66-E,Dha eme sector,,,,0,mix,,112
+96-E UP DANISH,,,d-3,96-E (UP),Dha eme sector,,,,0,buffalo,,111
+Faisal Azad,,,alt-2,96-E,Dha eme sector,,,,0,mix,,112
+316-D,,,d-1,316-D,Dha eme sector,,,,0,mix,,112
+520-D,,,alt-2,520-D,Dha eme sector,,,,0,buffalo,,111
+AQEEL SB 34-D,,,d-2,34-D,Dha eme sector,,,,0,mix,,112
+aftab khan,,,d-1,212-D,Dhe eme sector,,,,0,cow,,110
+shahzaman,,,d-2,333-D,Dha eme sector,,,,0,mix,,112
+293-A,,,d-4,293-A,Dha eme sector,,,,0,buffalo,,111
+Mrs zahid,,,d-1,464-A (Lower portion),Dha eme sector,,,,0,cow,,110
+464-A (UP),,,d-2,464-A (upper portion),Dha eme sector,,,,0,cow,,110
+atif sb,,,d-1,61-A,Dha eme sector,,,,0,cow,,110
+98-A,,,d-4,98-A,Dha eme sector,,,,0,cow,,110
+240-A,,,haulted,240-a up,Dha eme sector,,,,0,mix,,112
+442-A,,,d-2,442-A,Dha eme sector,,,,0,buffalo,,111
+ilyas sb,,,d-2,3-A,Dha eme sector,,,,0,buffalo,120,111
+Mr.Jawad,,,d-4,36-A,Dha eme sector,,,,0,mix,,112
+Abdul,,,d-2,300-A Upper,Dha eme sector,,,,0,mix,,112
+Nouman,,,d-2,300-A Lower,Dha eme sector,,,,0,buffalo,,111
+368-A,,,d-3,368-A,Dha eme sector,,,,0,cow,,110
+53-B,,,alt 1-2,53-B,Dha eme sector,,,,0,mix,,112
+AZEEZ RANA,,,d-2,70-B,Dha eme sector,,,,0,buffalo,,111
+88-B DHA EME,,,d-3,88-B,Dha eme sector,,,,0,mix,87,112
+371-B,,,d-2,371-B,Dha eme sector,,,,0,buffalo,,111
+ALEEM  MAQSOOD BASRA,,,d-17,397-B,Dha eme sector,,,,0,buffalo,140,111
+afaq ahmed,,,d-2,115-B,Dha eme sector,,,,0,mix,,112
+116-B,,,d-2,116-B,Dha eme sector,,,,0,mix,,112
+Mrs taskeen,,,d-2,459-B,Dha eme sector,,,,0,mix,,112
+378- B ATIF,,,d-2,378-B,Dha eme sector,,,,0,mix,,112
+378-B SAIF,,,d-2,378-B,Dha eme sector,,,,0,mix,,112
+Mrs Aftab,,,alt-2,119-B,Dha eme sector,,,,0,1cow+1buffalo,,112
+55-C,,,d-2,55-C,Dha eme sector,,,,0,mix,,112
+448-j,,,d-2,448-j,Dha eme sector,,,,0,buffalo,,111
+156-J,,,on call Delivery,77-J,Dha eme sector,,,,0,buffalo,,111
+462-J,,,d-1,462-J,Dha eme sector,,,,0,cow,,110
+Mrs serwat,,,d-3,162-J,Dha eme sector,,,,0,mix,,112
+mrs dr tanveer,,,d-5,36-G,Dha eme sector,,,,0,buffalo,120,111
+46-G,,,alt-2,46-G,Dha eme sector,,,,0,buffalo,,111
+KATHANA HOUSE,,,off,138-G,Dha eme sector,,,,0,,,
+Ekaan,,,d-2,184-G,Dha eme sector,,,,0,mix,,112
+imran,,,d-2,210-F,Dha eme sector,,,,0,cow,,110
+Khubaib,,,alt-2,429-judicial,judicial colony,,,,0,cow,,110
+250-Judicial,,,d-2,250-judicial,judicial colony,,,,0,buffalo,,111
+458-JUDICIAL,,,d-2,458-JUDICIAL,judicial colony,,,,0,mix,,112
+459-Judicial,,,d-1,459-Judicial,judicial colony,,,,0,mix,,112
+455 Judicial,,,alt-1,455-Phase 3,judicial colony,,,,0,mix,,112
+88-Ravi,,,d-2,88-Ravi,green forts 2,,,,0,mix,,112
+Mrs Waheed,,,d-1,50-indus,green forts 2,,,,0,mix,,112
+dr fahad,,,d-3,rail town,54/12,,,,0,cow,,110
+138/12 b,,,d-3,rail town,138/12B,,,,0,mix,,112
+awais,,,d-2,rail town,265/12B,,,,0,mix,,112
+7/5A,,,d-2,rail town,7/5 A ,,,,0,cow,,110
+16/5A,,,d-2,rail town,16/5 A,,,,0,buffalo,,111
+42/12,,,d-3,rail town,42/12,,,,0,cow,,110
+Waseem anwar,,,d-2,rail town,115-/15C,,,,0,mix,,112
+92/15 c,,,d-3,rail town,92/15c,,,,0,buffalo,,111
+ali/umer,,,d-11,rail town,99/12 D,,,,0,mix,,112
+89-abpara,,,on call Delivery,abpara,89-abpara,,,,0,buffalo,,111
+217-ABPARA,,,d-4,abpara,217-ABPARA,,,,0,2cow+2bbuffalo,,112
+216-abpara,,,d-2,abpara,216-abpara,,,,0,mix,,112
+101-abpara,,,d-2,abpara,101-abpara,,,,0,cow,,110
+226-ABPARA,,,alt -2,abpara,226-ABPARA,,,,0,cow,,110
+adeel abpara,,haulted,alt-3,abpara,245-abpara,,,,0,cow,,110
+19-C ABPARA COMMERCIAL,,,d-2,abpara,19-c abpara,,,,0,mix,,112
+salman GA,,,d-1,gulshan e ahbab,gulshan e ahbab,,,,0,mix,,112
+NOROZ ESTATE,,,d-1,ESTATE AGENCY,PARKVIEW,,,,0,cow,,110
+20-Jade parkview,,,d-2,20-jade ,parkview,,,,0,buffalo,,111
+358-TULIP,,,on call Delivery,358-TULIP,PARKVIEW,,,,0,mix,,112
+3051-TULIP,,,alt-2,3051-TULIP,PARKVIEW,,,,0,cow,,110
+283_ rose block,,,alt-3,283-Rose block,park view,,,,0,mix,,112
+128-Sapphire upper,,,alt-3,128-Saphire,park view,,,,0,mix,,112
+128-Sapphire block,,,d-2,128-Saphire,park view,,,,0,buffalo,120,111
+shahzad,,,d-1,129-Sapphire block,park view,,,,0,mix,,112
+33-A Rajput town,,,d-2,33-A,rajput town,,,,0,cow,,110

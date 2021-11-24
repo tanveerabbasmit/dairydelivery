@@ -1,0 +1,235 @@
+full Name, UserName  (login name),password,father Name (optional),Date OF Birth,Address1,Address2,Address3,Address(optional),CNIC(),City(optional),Cell No 1,Cell No2 (optional),Residence Phone No (optional),Email (optional),Zone Code,Payment Term(0 for Credit 1 for advance ),Delivery Alert(0 for Inactive 1 for Active),New Product Alert(0 for Inactive 1 for Active),   Customer Price     (If different from standard price)
+RAI KHALID ,,12345,,,"27, Sohail Block, Jameel Park",,Jameel Park,,,Lahore,9.23008E+11,,,,714,0,1,1,75
+DR FAHAD ,,12345,,,Jameel Park,,Jameel Park,,,Lahore,9.23338E+11,,,,714,0,1,1,90
+JAVED ,,12345,,,"11, Jameel Park",,Jameel Park,,,Lahore,9.23034E+11,,,,714,0,1,1,90
+AMJAD ISLAM AMJAD,,12345,,,"21-B, Jameel Park",,Jameel Park,,,Lahore,9.23014E+11,,,,714,0,1,1,90
+AFZAL KHAN ,,12345,,,"House 8, Sohail Block, Jameel Park",,Jameel Park,,,Lahore,9.23335E+11,,,,714,0,1,1,90
+MUSA ADNAN,,12345,,,"House 10, Jameel Park",,Jameel Park,,,Lahore,9.23344E+11,,,,714,0,1,1,90
+WARIS ALI KHARA ,,12345,,,"96, Habib Park",,Habib park,,,Lahore,9.23219E+11,,,,712,0,1,1,90
+RANA TAHIR ,,12345,,,"43B, Cinema Street, Gulshan Park",,Gulshan Park,,,Lahore,9.23214E+11,,,,713,0,1,1,90
+HAKEEM IBRAR ,,12345,,,Habib Park,,Habib park,,,Lahore,9.23005E+11,,,,713,0,1,1,90
+ABDULLAH ,,12345,,,Gulshan Park,,Gulshan Park,,,Lahore,9.23344E+11,,,,713,0,1,1,90
+RAI FAISAL,,12345,,,"Haq Bahoo Street, Gulshan Park",,Gulshan Park,,,Lahore,9.23334E+11,,,,713,0,1,1,90
+Maskeen ,,12345,,,"House 9, Haq Bahoo Street, Gulshan Park",,Gulshan Park,,,Lahore,9.23335E+11,,,,713,0,1,1,90
+SYED YAHYA ,,12345,,,Gulshan Park,,Gulshan Park,,,Lahore,9.23225E+11,,,,713,0,1,1,90
+A.D KASHIF,,12345,,,Gulshan Park,,Gulshan Park,,,Lahore,9.23215E+11,,,,713,0,1,1,90
+CH AMIN,,12345,,,Mansoora Bazar,,Gulshan Park,,,Lahore,9.23368E+11,,,,713,0,1,1,90
+Ata Ur Rehman,,12345,,,286 shahbaz block,,Mustafa Town,,,Lahore,9.23219E+11,,,,703,0,1,1,90
+ABDUL QADIR,,12345,,,"47, habib park",,Habib park,,,Lahore,9.23226E+11,,,,703,0,1,1,90
+DR. ZAKRIYA ,,12345,,,"1A, Habib Park",,Habib park,,,Lahore,9.23324E+11,,,,703,0,1,1,90
+ABDUL RAZZAQ Dogar,,12345,,,214-C Margazar,,Margzar,,,Lahore,9.23464E+11,,,,703,0,1,1,75
+ABDULAH HASHMI,,12345,,,"10D, Mansoora-1",,Mansoora-1,,,Lahore,9.23315E+11,,,,703,0,1,1,90
+DR.ABDUL GHANI ,,12345,,,"3E1, Mansoora-1",,Mansoora-1,,,Lahore,9.23028E+11,,,,703,0,1,1,90
+HASAN FAROOQ ,,12345,,,Mansoora-2,,Mansoora-2,,,Lahore,9.23074E+11,,,,703,0,1,1,90
+PROF ABDULLAH,,12345,,,"9D, Mansoora-1",,mansoora-1,,,Lahore,9.23334E+11,,,,703,0,1,1,90
+Dr. RAFI UDDIN,,12345,,,Mansoora-1,,mansoora-1,,,Lahore,9.23078E+11,,,,703,0,1,1,90
+NAEEM AKHTAR ,,12345,,,39 Kamran park,,Kamran Park,,,Lahore,9.23215E+11,,,,703,0,1,1,90
+HAFIZ SHOAIB,,12345,,,Mansoora Holmes,,Mansoora Holmes,,,Lahore,9.23228E+11,,,,703,0,1,1,90
+Ziaullah ,,12345,,,"15, Mansoora 2",,mansoora-2,,,Lahore,9.23324E+11,,,,703,0,1,1,90
+AHMAD RAZA,,12345,,,"16A, Sohaol Block, Jameel Park",,Jameel Park,,,Lahore,9.23229E+11,,,,703,0,1,1,90
+MALIK KHALIL,,12345,,,Jameel park,,Jameel Park,,,Lahore,9.23004E+11,,,,703,0,1,1,90
+Muhammad Haleem,,12345,,,77 Gulshan Park,,Gulshan Park,,,Lahore,9.23004E+11,,,,703,0,1,1,90
+RANA AKRAM,,12345,,,"Farooq-E-Azam St, Gulshan Park",,Gulshan Park,,,Lahore,9.23217E+11,,,,703,0,1,1,90
+SHEIKH ADEEL,,12345,,,Mansoora-2,,mansoora-2,,,Lahore,9.23004E+11,,,,703,0,1,1,90
+AWAIS,,12345,,,"71, Jameel Park",,Jameel Park,,,Lahore,9.23234E+11,,,,703,0,1,1,90
+USMAN ASIF,,12345,,,"3A Habib Park, Cinema street, Habib Park",,Habib park,,,Lahore,9.23228E+11,,,,703,0,1,1,90
+BASHIR,,12345,,,"55, Jameel Park",,Jameel Park,,,Lahore,9.23334E+11,,,,703,0,1,1,90
+TARIQ HABIB,,12345,,,"8D, 1st Floor, Mansoora-1",,Mansoora-1,,,Lahore,9.23325E+11,,,,703,0,1,1,90
+ABDUL REHMAN,,12345,,,"8D, 2nd Floor, Mansoora-1",,Mansoora-1,,,Lahore,9.23315E+11,,,,703,0,1,1,90
+Sohail Anwar,,12345,,,Mansoora 2,,Mansoora-2,,,Lahore,9.23214E+11,,,,703,0,1,1,90
+ASHAR BUTT,,12345,,,"Block-C, Margazar",,Margzar,,,Lahore,9.23009E+11,,,,703,0,1,1,90
+Rana Khalil,,12345,,,"2D, Mansoora-1",,Mansoora-1,,,Lahore,9.23364E+11,,,,703,0,1,1,90
+Younas,,12345,,,"102, Habib Park",,Habib park,,,Lahore,9.23238E+11,,,,703,0,1,1,90
+Younas Ch,,12345,,,"268-A2, Johar Town",,Johar Town,,,Lahore,9.23007E+11,,,,703,0,1,1,90
+Aftab Bajwa,,12345,,,"246-3-C1, Township",,Township,,,Lahore,9.23004E+11,,,,703,0,1,1,90
+Awais,,12345,,,"95/A, Habib Park, near Masjid",,Habib park,,,Lahore,9.23454E+11,,,,703,0,1,1,90
+Rai Aftab,,12345,,,"166-D Block, Khayaban E Amin",,Khayaban E Amin,,,Lahore,9.23225E+11,,,,703,0,1,1,90
+Hakeem M. Ali,,12345,,,Cinema Bazar,,Gulshan Park,,,Lahore,9.23009E+11,,,,703,0,1,1,90
+Rai Zahoor,,12345,,,"24, jameel Park",,Jameel Park,,,Lahore,9.23219E+11,,,,703,0,1,1,90
+M. bashir Khan,,12345,,,"1D- Ground Floor, Mansoora-1",,Mansoora-1,,,Lahore,9.23453E+11,,,,703,0,1,1,90
+Noor Ahmad,,12345,,,"101, Habib Park",,Habib Park,,,Lahore,9.23334E+11,,,,703,0,1,1,90
+Irfan Chattha ,,12345,,,"21-3-B2, Township",,Township,,,Lahore,9.23216E+11,,,,703,0,1,1,90
+Musab ,,12345,,,Mansoora 1,,Mansoora-1,,,Lahore,9.23348E+11,,,,703,0,1,1,90
+Rai Masood ,,12345,,,Said Pur Grid,,Iqbal Town,,,Lahore,9.23005E+11,,,,703,0,1,1,90
+Qari Mustafa ,,12345,,,Near Roshan Masjid,,Jameel Park,,,Lahore,9.23161E+11,,,,703,0,1,1,90
+Abdul Haq,,12345,,,"233-C, Margzar",,Margzar,,,Lahore,9.23009E+11,,,,703,0,1,1,90
+Nasrullah,,12345,,,"219, C Block Margazar",,Margzar,,,Lahore,9.23334E+11,,,,703,0,1,1,90
+Usman Ghani,,12345,,,Mansoora-1,,Mansoora-1,,,Lahore,9.2335E+11,,,,703,0,1,1,90
+Asad,,12345,,,"284-3-C1, Township",,Township,,,Lahore,9.23084E+11,,,,703,0,1,1,90
+Zakariya Shamsi ,,12345,,,"95B,  Habib Park, near Masjid",,Habib park,,,Lahore,9.2301E+11,,,,703,0,1,1,90
+Abdul Razzaq ,,12345,,,"Jutt Chowk, Johar Town",,Johar Town,,,Lahore,9.23334E+11,,,,703,0,1,1,90
+Dr. Amjad,,12345,,,231-C Margazar,,Margzar,,,Lahore,9.23334E+11,,,,703,0,1,1,90
+Fareed Uddin,,12345,,,M2 margazar,,Margzar,,,Lahore,9.23004E+11,,,,703,0,1,1,90
+Nabeel Shehzad,,12345,,,"555, Shehbaz Block, Mustafa Town",,Mustafa Town,,,Lahore,9.23115E+11,,,,703,0,1,1,75
+Haseeb ,,12345,,," Haq Bahoo Street, Gulshan Park",,Gulshan Park,,,Lahore,9.23334E+11,,,,703,0,1,1,90
+Abdul Sattar,,12345,,,Waris Colony,,Waris Colony,,,Lahore,9.23365E+11,,,,703,0,1,1,90
+Haris Masoud,,12345,,,Tayba Masjid,,Mustafa Town,,,Lahore,9.23424E+11,,,,703,0,1,1,90
+Abdullah Masoud,,12345,,,Tayba Masjid,,Mustafa Town,,,Lahore,9.23424E+11,,,,703,0,1,1,90
+Liaqat Bajwa,,12345,,,"285-3-C1, Township",,Township,,,Lahore,9.23214E+11,,,,703,0,1,1,90
+Ehtisham,,12345,,,665 Kamran Block,,Iqbal Town,,,Lahore,9.23235E+11,,,,703,0,1,1,90
+Javed Afridi,,12345,,,"21-B, Jameel Park",,Jameel Park,,,Lahore,9.23004E+11,,,,703,0,1,1,90
+Rana Aslam,,12345,,,Township,,Township,,,Lahore,9.2323E+11,,,,703,0,1,1,90
+Rahim Anwar,,12345,,,104 Kamran Block,,Iqbal Town,,,Lahore,9.23219E+11,,,,703,0,1,1,90
+Atif,,12345,,,"134, Gnd floor  Shahbaz Block",,Mustafa Town,,,Lahore,9.23009E+11,,,,703,0,1,1,90
+Usama Sardar,,12345,,,Jameel park,,Jameel Park,,,Lahore,9.23334E+11,,,,703,0,1,1,90
+Fahad,,12345,,,54 Mansoora holmes,,Mansoora Holmes,,,Lahore,9.23455E+11,,,,703,0,1,1,75
+M. Bin Zaid,,12345,,,"5E, Upper Portion,  Mansoora-1",,Mansoora-1,,,Lahore,9.23349E+11,,,,703,0,1,1,90
+Anwar Mughal,,12345,,,"126C, Haseeb Block, Azam Garden",,Azam Gardens,,,Lahore,9.2335E+11,,,,703,0,1,1,90
+Abdul Rasheed,,12345,,,"Husnain Park, Margazar",,Margzar,,,Lahore,9.23039E+11,,,,703,0,1,1,90
+Abdullah Usman,,12345,,,"Near Usman Ghani, Mansoora 1",,Mansoora-1,,,Lahore,9.23365E+11,,,,703,0,1,1,90
+Rashid,,12345,,,437-shahbaz Block Middle Floor,,Mustafa Town,,,Lahore,9.23455E+11,,,,703,0,1,1,90
+Abid Sajjad ,,12345,,,52-ahmad yar Block  Mustafa Town,,Mustafa Town,,,Lahore,9.23219E+11,,,,703,0,1,1,90
+Umar,,12345,,,229-A Ahmad Yar Block,,Mustafa Town,,,Lahore,9.23214E+11,,,,703,0,1,1,90
+Saliha Saeed,,12345,,,"438 -G3, Johar Town",,Johar Town,,,Lahore,9.23004E+11,,,,703,0,1,1,90
+Raheel Maqsood,,12345,,,25 Jamlil Park,,Jameel Park,,,Lahore,9.23224E+11,,,,703,0,1,1,90
+Hassaan Qureshi,,12345,,,Jamil Park,,Jameel Park,,,Lahore,9.23214E+11,,,,703,0,1,1,90
+Waqar,,12345,,,246-Abbas Block Mustafa Town,,Mustafa Town,,,Lahore,9.23243E+11,,,,703,0,1,1,90
+Shoaib Tariq,,12345,,,265 Ahmad Yar Block,,Mustafa Town,,,Lahore,9.23214E+11,,,,703,0,1,1,90
+M. Amin,,12345,,,"32-H, Margazar",,Margzar,,,Lahore,9.23224E+11,,,,703,0,1,1,90
+Sohail ,,12345,,," 15 C, Gosha-E-Ahbab",,Gosha E Ahbab,,,Lahore,9.23228E+11,,,,703,0,1,1,90
+Amir Siddique,,12345,,,339 ahmad yar block,,Mustafa Town,,,Lahore,9.23205E+11,,,,703,0,1,1,90
+Usman Akram,,12345,,,"105B, Ahmad Yar Block",,Mustafa Town,,,Lahore,9.23219E+11,,,,703,0,1,1,90
+Khalid,,12345,,,"223 1st Floor, Kamran Block",,Iqbal Town,,,Lahore,9.23064E+11,,,,703,1,1,1,90
+Ashfaq Babar,,12345,,,8-D-3 Mansoora-1,,Mansoora-1,,,Lahore,9.23337E+11,,,,703,0,1,1,90
+Najmuddin,,12345,,,"94 Habib Park, Near Usama Store",,Habib park,,,Lahore,9.23214E+11,,,,703,0,1,1,90
+Hidayat Ullah,,12345,,,9-C Mansoora,,Mansoora-1,,,Lahore,9.23365E+11,,,,703,0,1,1,90
+Shahid,,12345,,,"101-A, Near Usama Store, Habib Park",,Habib Park,,,Lahore,9.23092E+11,,,,703,0,1,1,90
+Usman,,12345,,,"39B, opposite Alnoor Academy, Gulshan park",,Gulshan Park,,,Lahore,9.23244E+11,,,,703,0,1,1,90
+Asif Ali,,12345,,,133-B Ahmad Yaar Block Mustafa Town,,Mustafa Town,,,Lahore,9.23095E+11,,,,703,0,1,1,90
+Usman Abdullah,,12345,,,66 Mansoora Holmes,,Mansoora Holmes,,,Lahore,9.23007E+11,,,,703,0,1,1,90
+Pro.Ayub Munir,,12345,,,2-A Waris Colony,,Waris Colony,,,Lahore,9.23238E+11,,,,703,0,1,1,90
+Umer,,12345,,,133-upper Ahmad Yar Block,,Mustafa Town,,,Lahore,9.23009E+11,,,,703,0,1,1,90
+M. Imran,,12345,,,"114-C, Habib Park",,Habib park,,,Lahore,9.23001E+11,,,,703,0,1,1,90
+Waqas,,12345,,,358 Abbas Block,,Mustafa Town,,,Lahore,9.23224E+11,,,,703,0,1,1,90
+Anis,,12345,,,"10-E-4 , Ground Floorn Mansoora",,Mansoora-1,,,Lahore,9.23319E+11,,,,703,0,1,1,90
+Shahid Majeed,,12345,,,"334-1-C2, Township",,Township,,,Lahore,9.23036E+11,,,,703,0,1,1,90
+Zubair,,12345,,,"124-D Block, Johar Town",,Johar Town,,,Lahore,9.23018E+11,,,,703,0,1,1,90
+Awais,,12345,,,"St-2, Husnain Park, Margzar",,Margzar,,,Lahore,9.23347E+11,,,,703,0,1,1,90
+Qari Ismail,,12345,,," 8, St-1, Husnain Park, Margzar",,Margzar,,,Lahore,9.23014E+11,,,,703,0,1,1,90
+Junaid Ahmad,,12345,,,19-C Mansoorah,,Mansoora-1,,,Lahore,9.23035E+11,,,,703,0,1,1,90
+Abdul Qadeer,,12345,,,79/3 haseeb Block Azam Garden,,Azam Gardens,,,Lahore,9.23005E+11,,,,703,0,1,1,90
+Farida Rafique ,,12345,,,"152 Ground Floor, Hidayatullah Block",,Mustafa Town,,,Lahore,9.23218E+11,,,,703,0,1,1,90
+Saqib,,12345,,,148-Mehran Block,,Iqbal Town,,,Lahore,9.23215E+11,,,,703,0,1,1,90
+Asim Zaheer,,12345,,,246-Abbas Block Mustafa Town,,Mustafa Town,,,Lahore,9.23214E+11,,,,703,0,1,1,90
+Naeem,,12345,,,"521, G-Floor, Abbas Block",,Mustafa Town,,,Lahore,9.23214E+11,,,,703,0,1,1,90
+Shakeel Ur Rehman,,12345,,,Habib Park,,Habib park,,,Lahore,9.23029E+11,,,,703,0,1,1,90
+Sheikh Ashraf,,12345,,,"Near Sheikh Chowk, Upper,Ittefaq Town",,Ittefaq Town,,,Lahore,9.23344E+11,,,,703,0,1,1,90
+Rana Tariq,,12345,,,131 Habib Park,,Habib park,,,Lahore,9.23216E+11,,,,703,0,1,1,90
+Zahid Ashraf,,12345,,,8-A mansoorah 2,,Mansoora-2,,,Lahore,9.23004E+11,,,,703,0,1,1,90
+Tahir Ashraf,,12345,,,21 upper mansoorah 2,,Mansoora-2,,,Lahore,9.23344E+11,,,,703,0,1,1,90
+Rai Ejaz,,12345,,,"166-D Block, Khayaban E Amin",,Khayaban E Amin,,,Lahore,9.23215E+11,,,,703,0,1,1,75
+Usman,,12345,,,202-Ahmad Yar Block,,Mustafa Town,,,Lahore,9.23235E+11,,,,703,0,1,1,90
+Dr Zia-Ur-Rehman,,12345,,,Mansoorah 1,,Mansoora-1,,,Lahore,9.23485E+11,,,,703,0,1,1,90
+Rai Abbas,,12345,,,Flat 1 4th Floor Mustafa Tower,,Mustafa Town,,,Lahore,9.23234E+11,,,,703,0,1,1,90
+Samiullah,,12345,,,"Jameel Park, Sohail Block",,Jameel Park,,,Lahore,9.23335E+11,,,,703,0,1,1,90
+Muhammad Ameen,,12345,,,8-Usman Block ,,Mansoora Holmes,,,Lahore,9.23034E+11,,,,703,0,1,1,90
+Sheikh Mushtaq,,12345,,,288-Ahmad Yar Block,,Mustafa Town,,,Lahore,9.23214E+11,,,,703,0,1,1,90
+Faisal Shakeeb,,12345,,,Gulshan Park,,Gulshan Park,,,Lahore,9.23328E+11,,,,703,0,1,1,90
+Nauman ,,12345,,,"Near Sheikh Chowk, Upper,Ittefaq Town",,Ittefaq Town,,,Lahore,9.23134E+11,,,,703,0,1,1,90
+Abdul Aziz,,12345,,,"H #8, St #16, Ramgarh Bazar,",,Mughalpura,,,Lahore,9.23004E+11,,,,703,0,1,1,90
+Habib-ur-Rehman,,12345,,,24-A Saleem Block Ittefaq Town,,Ittefaq Town,,,Lahore,9.23216E+11,,,,703,0,1,1,90
+Eban Tariq,,12345,,,waris colony,,Waris Colony,,,Lahore,9.23167E+11,,,,703,0,1,1,90
+Ifraheem Khan,,12345,,,"Haq Bahoo Street, Gulshan Park",,Gulshan Park,,,Lahore,9.23005E+11,,,,703,0,1,1,90
+TAYYAB Akram,,12345,,,"244- F1, Johar Town",,Johar Town,,,Lahore,9.23334E+11,,,,703,0,1,1,90
+Khalid Mahmood,,12345,,,7/1 Manaoora 2,,Mansoora-2,,,Lahore,9.23218E+11,,,,703,0,1,1,90
+Javed Ahmad,,12345,,,407  Aabas Block Mustafa Town,,Mustafa Town,,,Lahore,9.23339E+11,,,,703,0,1,1,90
+Syed Abdul Hameed,,12345,,,Jameel Park,,Jameel Park,,,Lahore,9.23015E+11,,,,703,0,1,1,90
+Zubair Ahmad,,12345,,,"8D, 2nd Floor, Mansoora-1",,Mansoora-1,,,Lahore,9.23368E+11,,,,703,0,1,1,90
+Muhammad Ahmad,,12345,,,house#10 haq-baho street,,Gulshan Park,,,Lahore,9.23497E+11,,,,703,0,1,1,90
+Ali Virk,,12345,,,62 Ahmad Yar Block,,Mustafa Town,,,Lahore,9.23338E+11,,,,703,0,1,1,90
+Akram,,12345,,," 8, St-1, Husnain Park, Margzar",,Margzar,,,Lahore,9.23004E+11,,,,703,0,1,1,90
+Irfan,,12345,,," 8, St-1, Husnain Park, Margzar",,Margzar,,,Lahore,9.2348E+11,,,,703,0,1,1,90
+Aalim Khokhar,,12345,,,114-Karim Block Iqbal Town,,Iqbal Town,,,Lahore,9.23324E+11,,,,703,0,1,1,90
+Haji Abdul Razzaq,,12345,,,"St 2, House 10, Husnain Park",,Margzar,,,Lahore,9.23064E+11,,,,703,0,1,1,90
+Haris Bilal,,12345,,,427 Abbas Block,,Mustafa Town,,,Lahore,9.23249E+11,,,,703,0,1,1,90
+Zia Hassan,,12345,,,62-Ahmad Yar Block Ground,,Mustafa Town,,,Lahore,9.23334E+11,,,,703,0,1,1,90
+Ejaz Kazmi,,12345,,,"24 Abdali street, Ittehad colony",,Ittehad Colony,,,Lahore,9.23214E+11,,,,703,0,1,1,90
+Irfan Sohail,,12345,,,"134 Qayum Block, Mustafa Town",,Mustafa Town,,,Lahore,9.23089E+11,,,,703,0,1,1,90
+Zahid Baig,,12345,,,338 Ahmad yar Block,,Mustafa Town,,,Lahore,9.23215E+11,,,,703,0,1,1,90
+Hamza Niazi,,12345,,,168 Sodiwal Multan Road,,Sodewal,,,Lahore,9.23338E+11,,,,703,1,1,1,90
+Saleem Niazi,,12345,,,16 Ahmad yar Block,,Mustafa Town,,,Lahore,9.23348E+11,,,,703,1,1,1,90
+Anas sajid,,12345,,,"56 Faisal Block, Azam garden",,Azam Gardens,,,Lahore,9.23008E+11,,,,703,0,1,1,90
+Muhammad Akram,,12345,,,"30, Umer Hayat Block, Khayaban E quaid",,Ittefaq Town,,,Lahore,9.2335E+11,,,,703,0,1,1,90
+Sadiq Baloch,,12345,,,"342, G3, wapda Town",,Wapda Town,,,Lahore,9.23334E+11,,,,703,0,1,1,90
+Maaz,,12345,,,424 abbas block,,Mustafa Town,,,Lahore,9.23171E+11,,,,703,0,1,1,90
+Shehzad Ahmed,,12345,,,"932-E1, Johar Town",,Johar Town,,,Lahore,9.23017E+11,,,,703,0,1,1,90
+Ejaz Wattoo,,12345,,,"868-E1, Johar Town",,Johar Town,,,Lahore,9.23334E+11,,,,703,0,1,1,90
+Amjad Rizwan,,12345,,,514 Shahbaz Block,,Mustafa Town,,,Lahore,9.23334E+11,,,,703,0,1,1,90
+Amir Bilal,,12345,,,108 Nishter Block,,Iqbal Town,,,Lahore,9.23334E+11,,,,703,0,1,1,90
+Tariq Mahmood,,12345,,,"251-A2, Johar Town",,Johar Town,,,Lahore,9.23081E+11,,,,703,0,1,1,90
+Muhammad Saleem,,12345,,,"496, L-Block, Johar Town",,Johar Town,,,Lahore,9.23219E+11,,,,703,0,1,1,90
+Nadeem Qureshi,,12345,,,"14B, Education Town",,Education Town,,,Lahore,9.23004E+11,,,,703,0,1,1,90
+Rizwan sohail,,12345,,,651 Umer Block,,Iqbal Town,,,Lahore,9.23216E+11,,,,703,0,1,1,90
+Naveed Shah,,12345,,,380 Raza Block,,Iqbal Town,,,Lahore,9.23334E+11,,,,703,0,1,1,90
+Mustafa Malik,,12345,,,796D Ravi Block,,Iqbal Town,,,Lahore,9.23218E+11,,,,703,0,1,1,90
+Muhammad Saad,,12345,,,"Gulshan Park, Near Al-noor",,Gulshan Park,,,Lahore,9.23095E+11,,,,703,0,1,1,90
+Mehr Asif,,12345,,,"234, C Block, Margzar",,Margzar,,,Lahore,9.23228E+11,,,,703,0,1,1,90
+Tayyab Imtiaz,,12345,,,"48-Q Block, sabsazar",,Sabzazar,,,Lahore,9.23033E+11,,,,703,0,1,1,90
+Muhammad Mohsin,,12345,,,"E4, Qadri colony, St-1, Walton",,Walton,,,Lahore,9.23049E+11,,,,703,0,1,1,90
+Haroon Rasheed,,12345,,,56 qayum Block,,Mustafa Town,,,Lahore,9.23005E+11,,,,703,0,1,1,90
+Qazi Mehboob,,12345,,,"22A Gosha Ehbab, upper",,Gosha E Ahbab,,,Lahore,9.23335E+11,,,,703,0,1,1,90
+Daar,,12345,,,224 Skinder Block,,Iqbal Town,,,Lahore,9.23009E+11,,,,703,0,1,1,90
+Sabir,,12345,,,378 Raza Block,,Iqbal Town,,,Lahore,9.23335E+11,,,,703,0,1,1,90
+Shehzad Hussain,,12345,,,"151 Ahmad Yar, upper",,Mustafa Town,,,Lahore,9.2335E+11,,,,703,0,1,1,90
+Hassan,,12345,,,196 Qayum Block,,Mustafa Town,,,Lahore,9.23325E+11,,,,703,0,1,1,90
+Mirza Tahir,,12345,,,A2/3 Education Town,,Education Town,,,Lahore,9.23004E+11,,,,703,0,1,1,90
+Raza Jafri,,12345,,,29C Education Town,,Education Town,,,Lahore,9.23005E+11,,,,703,0,1,1,90
+Asim Ikhlaq,,12345,,,91 Habib Park,,Habib park,,,Lahore,9.23234E+11,,,,703,0,1,1,90
+Sheikh  Usama,,12345,,,15-Mansoorah homes,,Mansoora Holmes,,,Lahore,9.232E+11,,,,703,0,1,1,90
+Umer,,12345,,,166D khayaban E Amin,,Khayaban E Amin,,,Lahore,9.2306E+11,,,,703,0,1,1,90
+Sheikh Idrees,,12345,,,155-Ahmad Yar Block,,Mustafa Town,,,Lahore,9.23344E+11,,,,703,0,1,1,90
+Sajjad ahmad,,12345,,,"243-3-C1, Township",,Township,,,Lahore,9.23215E+11,,,,703,0,1,1,90
+Waseem Saleem,,12345,,,257-A Ibdalian Socity,,Abdalian Society,,,Lahore,9.23219E+11,,,,703,0,1,1,90
+Khawaja,,12345,,,"327 , Upper, Shahbaz Block",,Mustafa Town,,,Lahore,9.23375E+11,,,,703,1,0,0,90
+133-B Ahmad yar,,12345,,,133-B Ahmadyar,,Mustafa Town,,,Lahore,9.23074E+11,,,,703,1,0,0,90
+Tahir Raza,,12345,,,"37-A, Haseeb Block",,Azam Gardens,,,Lahore,,,,,703,1,0,0,90
+692 Mehran Block,,12345,,,692 Mehran Block,,Iqbal Town,,,Lahore,,,,,703,1,0,0,90
+Zaheer,,12345,,,Jamil Park,,Jameel Park,,,Lahore,,,,,703,1,0,0,90
+Zeeshan Haider,,12345,,,jamil Park,,Jameel Park,,,Lahore,,,,,703,1,0,0,90
+Latif,,12345,,,"40, Jameel Park",,Jameel Park,,,Lahore,9.23219E+11,,,,703,1,0,0,90
+Haider Shah,,12345,,,Jamil Park,,Jameel Park,,,Lahore,9.23228E+11,,,,703,1,0,0,90
+Hamza Rabbani,,12345,,,Jamil Park,,Jameel Park,,,Lahore,,,,,703,1,0,0,90
+Hakeem Mubbashir,,12345,,,Bahria Town,,Bahria Town,,,Lahore,,,,,703,1,0,0,90
+Amjad,,12345,,,"Ravi Block, Iqbal Town",,Iqbal Town,,,Lahore,9.23014E+11,,,,703,1,0,0,90
+Mithoo,,12345,,,Awan Town,,Awan Town,,,Lahore,9.23053E+11,,,,703,1,0,0,90
+Rafiq,,12345,,,"Husnain Park, C-Block Marghazar",,Margzar,,,Lahore,,,,,703,1,0,0,90
+Mujahid,,12345,,,"27 abdali street, Ittehad Colony",,Ittehad Colony,,,Lahore,9.23035E+11,,,,703,1,0,0,90
+Babar Mughal,,12345,,,"47 Q-block, Sabzazar",,Sabzazar,,,Lahore,,,,,703,1,0,0,90
+Iftikhar Rath,,12345,,,"PWD Colony, wahdat Rd",,Iqbal Town,,,Lahore,,,,,703,1,0,0,90
+Mushtaq,,12345,,,371-Raza Block Iqbal Town,,Iqbal Town,,,Lahore,,,,,703,1,0,0,90
+Abdul Sami,,12345,,,"430 Nizam Block, Iqbal town",,Iqbal Town,,,Lahore,9.23212E+11,,,,703,1,0,0,90
+Shahnawaz,,12345,,,"Al0kausar block, awan town",,Awan Town,,,Lahore,,,,,703,1,0,0,90
+Rehan,,12345,,,Mansoora,,Mansoora-1,,,Lahore,,,,,703,1,0,0,90
+Saeed,,12345,,,"8E2, Mansoora",,Mansoora-1,,,Lahore,,,,,703,1,0,0,90
+10-A-6 Mansoorah,,12345,,,"10-A-6, Mansoora",,Mansoora-1,,,Lahore,,,,,703,1,0,0,90
+Haidar shah ,,12345,,,Ittefaq Town,,Ittefaq Town,,,Lahore,,,,,703,1,0,0,90
+B-50 Wahdat Colony,,12345,,,B-50 Wahdat Colony,,Wahdat Colony,,,Lahore,,,,,703,1,0,0,90
+Waqas ,,12345,,,151 Haseeb Block,,Azam Gardens,,,Lahore,9.23003E+11,,,,703,1,0,0,90
+Mubeen Asif,,12345,,,338 Abbas Block,,Mustafa Town,,,Lahore,9.23334E+11,,,,703,1,0,0,90
+360A abbas Block,,12345,,,360-A Abbas Block,,Mustafa Town,,,Lahore,,,,,703,1,0,0,90
+Aziz Anwar,,12345,,,"35F,Marghazar, Ground Floor",,Margzar,,,Lahore,,,,,703,1,0,0,90
+Gilani,,12345,,,79 Roshan Park,,Jameel Park,,,Lahore,,,,,703,1,0,0,90
+474 johar town,,12345,,,"474 L Block, Johar town",,Johar Town,,,Lahore,,,,,703,1,0,0,90
+502- L Block J.T,,12345,,,520- L Block J.T,,Johar Town,,,Lahore,,,,,703,1,0,0,90
+Arsalan,,12345,,,472 -L johar Town,,Johar Town,,,Lahore,,,,,703,1,0,0,90
+Mahmood ,,12345,,,208-street 10 cavelry Ground,,Walton,,,Lahore,,,,,703,1,0,0,90
+Sher Ali,,12345,,,"574 Nargis Block, Iqbal Town",,Iqbal Town,,,Lahore,,,,,703,1,0,0,90
+Zia,,12345,,,69 Chenab Block,,Iqbal Town,,,Lahore,,,,,703,1,0,0,90
+165 Mamdoot Block,,12345,,,165 Mamdoot Block,,Mustafa Town,,,Lahore,,,,,703,1,0,0,90
+Haji Ghulam,,12345,,,783 Nargis Block,,Iqbal Town,,,Lahore,,,,,703,1,0,0,90
+Ali Adnan,,12345,,,"271-K2, Johar town",,Johar Town,,,Lahore,,,,,703,1,0,0,90
+Javed Lesco,,12345,,,Samanabad,,Samanabad,,,Lahore,,,,,703,1,0,0,90
+Qari Ibrar,,12345,,,Mohlanwal,,Bahria Town,,,Lahore,,,,,703,1,0,0,90
+Sharjeel Ahmad,,12345,,,106-M Block Marghazar,,Margzar,,,Lahore,,,,,703,1,0,0,90
+Amir Malik,,12345,,,"58 Faisal Block, Azam Garden",,Azam Gardens,,,Lahore,,,,,703,1,0,0,90
+Ali,,12345,,,252 Ahmad yar Block,,Mustafa Town,,,Lahore,,,,,703,1,0,0,90
+Tanveer Dogar,,12345,,,Defence,,Defence,,,Lahore,,,,,703,1,0,0,80
+Liaqat,,12345,,,"267-2-C1, Township",,Township,,,Lahore,9.23244E+11,,,,703,1,0,0,90
+Nabeel Anwar,,12345,,,"134-D Haseeb Block, Azam Garden",,Azam Gardens,,,Lahore,,,,,703,1,0,0,90
+531 Abbas Block,,12345,,,531 Abbas Block,,Mustafa Town,,,Lahore,,,,,703,1,0,0,90
+Sajjad Neighbour,,12345,,,"243-3-C1, Township",,Township,,,Lahore,,,,,722,1,0,0,90
+Waqas,,,,,"472-E, park Lane",,Park Lane,,,Lahore,9.23014E+11,,,,729,0,0,0,90
+Abbas Sheikh,,,,,"51-K3, Wapda Town",,Wapda Town,,,Lahore,9.23004E+11,,,,726,0,0,0,90
+Asif,,,,,"144 H1, Wapda Town",,Wapda Town,,,Lahore,9.23337E+11,,,,726,0,0,0,90
+Kashif mahmood,,,,,"287-3-C1, Township",,Township,,,Lahore,9.23218E+11,,,,722,1,0,0,90
+Nisar Ahmad zahid,,,,,"3E2, Mansoora 1",,Mansoora-1,,,Lahore,9.23454E+11,,,,710,0,1,0,90

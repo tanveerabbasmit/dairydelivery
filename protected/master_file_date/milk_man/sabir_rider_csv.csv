@@ -1,0 +1,50 @@
+Name  ,Location,house,Quantity,Milk delivery,Product,schedual type,Rate,Status
+Maqbool,Gulbahar,41-C,2,Daily 2kg mix,112,1,110,active
+55-c gulbahar,Gulbahar,55-C,0,daily 2 cow,110,1,105,haulted
+79-C,Gulbahar,79-C,3,daily 3 mix,112,1,110,active
+dr adnan,gulbahar,1-E,2,daily 2 buffalo,111,1,130,actiive
+Bilal,Rajput Town,10-B,2,alternate 2 kg,112,2,110,active
+architect society,architect society,,3,daily 3kg cow,110,1,110,active
+757-pcsir 2,PCSIR 2,757-PCSIR 2,2,alternate 2 kg buffalo,111,2,125,active
+Zeeshan khalid,Punjab Society,63-R Phase 1,0,alternate 2 cow,110,2,110,active
+haris aslam,Punjab Society,37-A4,2,daily 2 mix,112,1,110,active
+191-C(66-a4),Punjab Society,66-A4,2,alternate 2 cow,110,2,105,active
+UMER 357-R1,Johar town,357-R1,0,alternate 2 buffalo,111,2,130,active
+M.abdullah,Johar town,44-B revenue (ghousia chowk),4,daily 4 cow,110,1,105,active
+Zubair shahid,Johar town,109-C2,4,daily 4 cow,110,1,105,active
+Ehsan,Johar town,558-D,3,daily 3 cow,112,1,105,active
+Dr javed,Johar town,145-A Block C,2,daily 2 mix,112,1,110,active
+156-J1,Johar town,156-J1,3,daily 2buffalo+1 cow,112,1,130+110,active
+5-J2 Downstairs,Johar town,5-(j-2) downstairs,3,daily 3 cow,110,1,105,active
+liaquat naaz,Johar town,5-J2,3,daily 3 cow,110,1,105,active
+hassan naveed (down),Johar town,300-L,3,daily 3 buffalo,111,1,130,active
+Dr Adeel,Johar town,770-J2,2,daily 2 kg mix,112,1,110,active
+hassan,Johar town,249-h1(Ibne abi talib Rd)Mughal eye,0,alternate 2kg cow,110,2,105,active
+Mohsin gillani,Johar town,403-H1,2,Daily 2kg mix,112,1,110,active
+khawaja salman,Johar town,575-f2,2,once a week 2kg,112,1,120,active
+asif makhdoom UP,Johar town,,4,4 cow daily,112,1,105,active
+shehzad kamboh,johar town,229-D2,4,daily 4kg mix,112,1,110,active
+Nasir habib Rana,Johar town,324-J1,2,alternate 2kg buffalo,111,2,130,active
+waqar zafar,Johar town,"House 2 green lane,opp 48-B Bor Society",1,daily 1 kg mix,112,1,110,active
+NEW CUSTOMER GL,Johar town,,3,daily 3kg mix,112,1,110,active
+ali yousaf,nespak phase 1,201-c1,0,daily 2kg mix,112,1,110,active
+dr akram,township,219-2-c2,2,alternate 2buffalo,111,2,120,active
+dr usman,township,267-2-b2,3,daily 3kg mix,112,1,110,active
+Jamil Arshad,township,230-1-C2,3,daily 3kg cow ,110,1,105,active
+Tahir shah,Township,2,0,alternate 2kg cow,110,2,105,active
+saad khawaja,township,30-1-b1,6,daily 6kgs mix,112,1,110,active
+umer khawaja,township,30-1-b1,2,daily 2kgs mix,112,1,110,active
+amir saleem,township,37-1-B-1,2,daILY 2KGS MIX,112,1,110,ACTIVE
+410-c,faisal town,410-C,2,ALTERNATE 2KGS MIX,112,2,110,ACTIVE
+abdil salam,faisal town,546-C,4,ALTERNATE 2cow+2mix,112,2,110,ACTIVE
+Mir sb,faisal town,60-C1,2,ALTERNATE 2 MIX,112,2,110,ACTIVE
+"ahmed nadee,",Model town,110-N,2,ALTERNATE 2 MIX,112,2,110,ACTIVE
+240-N,Model town,240-N,0,ALTERNATE 2 COW,110,2,110,HAULTED
+126-N,Model town,126-N,2,ALTERNATE 2 MIX,112,2,110,ACTIVE
+zahir sb,faisal town,63-C-1,2,ALTERNATE 2 MIX,112,2,110,ACTIVE
+63-C-1,faisal town,63-c-1,2,ALTERNATE 2 BUFFALO,111,2,130,ACTIVE
+32-M,Model town,32-M,2,ALTERNATE 2 COW,110,2,110,ACTIVE
+M.SALEH,MODEL TOWN,20-B,0,DAILY 3KG COW,110,1,110,ACTIVE
+saima,Model town,43-K (black gate),2,ALTERNATE 2 MIX,112,2,110,ACTIVE
+AHSAN T MALIK,MODEL TOWN,436-K,0,ALTERNATE 2 MIX,112,2,110,HAULTED
+YAQOOB TARIQ,Model town,ATATURK BLOCK,3,DAILY 3 COW,110,1,,

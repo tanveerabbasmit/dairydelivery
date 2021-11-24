@@ -1,0 +1,100 @@
+Customer Code,full Name, UserName(login name),password,father Name(optional),Date OF Birth,Address1,Address2,Address3,Address(optional),CNIC(),City(optional),Cell No 1,Cell No2(optional),Residence Phone No (optional),Email(optional),Zone Code,Payment Term(0 for Credit 1 for advance ),Delivery Alert(0 for Inactive 1 for Active),New Product Alert(0 for Inactive 1 for Active),Customer Price (If different from standard price)
+1,Muhammad Imran,Customer1,Customer1,Nill,Nill,102-D,Military Accounts,,pcsir Lahore,333204364,Shorkot,92300603362,9.23026E+11,9/19/2017,abcd@gmail.com,1,1,1,1,90
+,Hassan Sb,Customer2,Customer2,Nill,Nill,459-B,Faysal Town,,,Nill,Lahore,,,,,,0,1,1, 110.00 
+,Mr. Yasir Sb ,Customer3,Customer3,Nill,Nill,Office,Gulberg,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Mr. Afzal Shah,Customer4,Customer4,Nill,Nill,253,Shahdman,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Wasim Baig,Customer5,Customer5,Nill,Nill,7up Stop,Gulbahar Colony,,,Nill,Lahore,,,,,,0,1,1, 130.00 
+,Mr. Khalid Rasheed,Customer6,Customer6,Nill,Nill,"92-A, St 16",Cavalary Ground,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Mateen Ahmad,Customer7,Customer7,Nill,Nill,7up Stop,Gulbahar Colony,,,Nill,Lahore,,,,,,0,1,1, 130.00 
+,Hafiz Mujahid,Customer8,Customer8,Nill,Nill,277-B,Cavalary Ground,,,Nill,Lahore,,,,,,0,1,1, 110.00 
+,Mr. Khalid,Customer9,Customer9,Nill,Nill,209,Cavalary Ground,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Mr. Qammer Butt,Customer10,Customer10,Nill,Nill,210,Cavalary Ground,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Nasir Jut,Customer11,Customer11,Nill,Nill,207,Cavalary Groud,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Khan Sahib,Customer12,Customer12,Nill,Nill,"103, St # 8",Cavalery Ground,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Aunty Parveen,Customer13,Customer13,Nill,Nill,162,Cavalary Ground,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Waseem Iqbal,Customer14,Customer14,Nill,Nill,,Walton,,,Nill,Lahore,,,,,,0,1,1, 130.00 
+,Mr. Maqsood Phopho,Customer15,Customer15,Nill,Nill,,Walton,,,Nill,Lahore,,,,,,0,1,1, 110.00 
+,Mr. Maqsood,Customer16,Customer16,Nill,Nill,,Walton,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Mr. Nadeem Baloch,Customer17,Customer17,Nill,Nill,,Walton,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Mr. Naeem Baloch,Customer18,Customer18,Nill,Nill,,Walton,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Mr. Fareed Baloch,Customer19,Customer19,Nill,Nill,,Walton,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Rana Shahbaz,Customer20,Customer20,Nill,Nill,,Walton,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Abdul Khaliq c/o Rana Shahbaz ,Customer21,Customer21,Nill,Nill,,Walton,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Mr. Shoaib,Customer22,Customer22,Nill,Nill,,Walton,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Mr. Kashif,Customer23,Customer23,Nill,Nill,,Walton,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Master Yahya,Customer24,Customer24,Nill,Nill,,Gulbahar Colony,,,Nill,Lahore,,,,,,0,1,1, 115.00 
+,Haji Dildar,Customer25,Customer25,Nill,Nill,,Gulbahar Colony,,,Nill,Lahore,,,,,,0,1,1, 110.00 
+,Faiz Ahmad,Customer26,Customer26,Nill,Nill,Home,Green Cap,,,Nill,Lahore,,,,,,0,1,1, 110.00 
+,Mr. Afzal Shah,Customer27,Customer27,Nill,Nill,185-C-1,NESPAK,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Mr. Hamid Ansari,Customer28,Customer28,Nill,Nill,176-E,PCSIR,,,Nill,Lahore,0323-4896084,,,,,0,1,1, 115.00 
+,Mr. Waqas Azeem,Customer29,Customer29,Nill,Nill,325 2-C-2,Town Ship,,,Nill,Lahore,0300-0123321,,,,,0,1,1, 120.00 
+,Najam Saqib,Customer30,Customer30,Nill,Nill,545-A1,Gulberg 3,,,Nill,Lahore,,,,,,0,1,1, 130.00 
+,Jafar Abas ,Customer31,Customer31,Nill,Nill,,New Green City,,,Nill,Lahore,,,,,,0,1,1, 130.00 
+,Hammed Mayo,Customer32,Customer32,Nill,Nill,,Ashiyana,,,Nill,Lahore,,,,,,0,1,1, 130.00 
+,Mr. Kashif,Customer33,Customer33,Nill,Nill,,Chungi Amarsadhu Lhr,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Farjad Khan,Customer34,Customer34,Nill,Nill,776-D,Faisal Town,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Shamshad Sidiqui,Customer35,Customer35,Nill,Nill,"92-A, St 16",Cavalary Ground,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Bashir Ahmad,Customer36,Customer36,Nill,Nill,680/1-GG,DHA-Phase 4,,,Nill,Lahore,,,,,,0,1,1, 130.00 
+,Amaan Ullah Sb,Customer37,Customer37,Nill,Nill,357-2-C-1,Township ,,,Nill,Lahore,,,,,,0,1,1, 130.00 
+,Ali Sb,Customer38,Customer38,Nill,Nill,444-A,EME,,,Nill,Lahore,,,,,,0,1,1, 110.00 
+,Mr. Mehar Altaf,Customer39,Customer39,Nill,Nill,222-A,EME,,,Nill,Lahore,0300-4513107,,,,,0,1,1, 120.00 
+,Aftab Alam,Customer40,Customer40,Nill,Nill,15-B,Revenue Society,,,Nill,Lahore,,,,,,0,1,1, 130.00 
+,Ahmad Abdullah,Customer41,Customer41,Nill,Nill,104-B-4,Wapda Town,,,Nill,Lahore,,,,,,0,1,1, 115.00 
+,Dr. Anjum,Customer42,Customer42,Nill,Nill,136-F-1,Wapda Town,,,Nill,Lahore,0300-4614451,,,,,0,1,1, 120.00 
+,Haji Ghulam Fareed Khan,Customer43,Customer43,Nill,Nill,251-D-1,NESPAK,,,Nill,Lahore,0322-8001212,,,,,0,1,1, 110.00 
+,Anwar Ul Haq,Customer44,Customer44,Nill,Nill,215-D-1,NESPAK,,,Nill,Lahore,0300-9008590,,,,,0,1,1, 120.00 
+,Haji Ghulam Rasool,Customer45,Customer45,Nill,Nill,192-D-1,NESPAK,,,Nill,Lahore,0321-4020941,,,,,0,1,1, 110.00 
+,Mr. Sana Ullah Mughal,Customer46,Customer46,Nill,Nill,10-D-1,Nespak,,,Nill,Lahore,042-35181292,,,,,0,1,1, 120.00 
+,Mr. Umer,Customer47,Customer47,Nill,Nill,12-D-1,Nespak,,,Nill,Lahore,,,,,,0,1,1, 115.00 
+,Mr. Umer Uncle,Customer48,Customer48,Nill,Nill,56-D-1,NESPAK,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Mr. Khobaib Vahedy,Customer49,Customer49,Nill,Nill,56-D-1,NESPAK,,,Nill,Lahore,0334-5149901,,,,,0,1,1, 120.00 
+,Mr. Anas Vahedy,Customer50,Customer50,Nill,Nill,55-D-1,NESPAK,,,Nill,Lahore,0300-8403573,,,,,0,1,1, 120.00 
+,Mr. Asad Iqbal,Customer51,Customer51,Nill,Nill,34-D-1,NESPAK,,,Nill,Lahore,0332-4787708,,,,,0,1,1, 115.00 
+,Dr. Ijaz,Customer52,Customer52,Nill,Nill,49-D-1,NESPAK,,,Nill,Lahore,0322-4141035,,,,,0,1,1, 120.00 
+,Awais Rafique,Customer53,Customer53,Nill,Nill,223-D,P.U. Socity Phase II,,,Nill,Lahore,,,,,,0,1,1, 130.00 
+,Mr. Fahim Saddique,Customer54,Customer54,Nill,Nill,53-A,Aman Town,,,Nill,Lahore,0300-8469574,,,,,0,1,1, 120.00 
+,Mr. Akmal,Customer55,Customer55,Nill,Nill,168-A-1,Wapda Town,,,Nill,Lahore,,,,,,0,1,1, 130.00 
+,Malik Ijaz Khokhar,Customer56,Customer56,Nill,Nill,22-B,IEP Town,,,Nill,Lahore,,,,,,0,1,1, 110.00 
+,Shuja uddin,Customer57,Customer57,Nill,Nill,61-A,UET,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Zaeem Dar ,Customer58,Customer58,Nill,Nill,"107-B, Street 2",NFC,,,Nill,Lahore,,,,,,0,1,1, 100.00 
+,Dr. Sajid Masood,Customer59,Customer59,Nill,Nill,119-B,NFC,,,Nill,Lahore,,,,,,0,1,1, 130.00 
+,Faran Sb,Customer60,Customer60,Nill,Nill,119-B,NFC,,,Nill,Lahore,,,,,,0,1,1, 130.00 
+,Imran Afzal,Customer61,Customer61,Nill,Nill,25-H,Canal Berg,,,Nill,Lahore,0323-6607176,,,,,0,1,1, 130.00 
+,Farrukh Tayyab,Customer62,Customer62,Nill,Nill,399-G1,Johar Town,,,Nill,Lahore,,,,,,0,1,1, 130.00 
+,c/o Farrukh Tayyab,Customer63,Customer63,Nill,Nill,517-G,Johar Town,,,Nill,Lahore,,,,,,0,1,1, 130.00 
+,Ashraf Shakuri,Customer64,Customer64,Nill,Nill,801-E,Canal View,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Mrs Rubina,Customer65,Customer65,Nill,Nill,799-E,Canal View,,,Nill,Lahore,,,,,,0,1,1, 130.00 
+,Ali Hassan Khan,Customer66,Customer66,Nill,Nill,56-J-3,Wapda Town,,,Nill,Lahore,0321-4354900,,,,,0,1,1, 120.00 
+,Mr. Kashir Aslam,Customer67,Customer67,Nill,Nill,675-A-F2,Johar Town,,,Nill,Lahore,0334-4344833,,,,,0,1,1, 130.00 
+,Mujtaba Sb,Customer68,Customer68,Nill,Nill,,,,,Nill,Lahore,,,,,,0,1,1, 130.00 
+,Asjad Majeed,Customer69,Customer69,Nill,Nill,23-B,Dream Avenue ,,,Nill,Lahore,,,,,,0,1,1, 110.00 
+,Tahir Raza,Customer70,Customer70,Nill,Nill,58-M,Valancia,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Mr. Furqan Sb,Customer71,Customer71,Nill,Nill,460-4-C2,Township ,,,Nill,Lahore,0321-4403778,,,,,0,1,1, 130.00 
+,Tariq Awan Sb,Customer72,Customer72,Nill,Nill,61-A,UET,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Amir Dar,Customer73,Customer73,Nill,Nill,,Ahmad Nagar,,,Nill,Lahore,,,,,,0,1,1, 100.00 
+,Yousaf Ismail,Customer74,Customer74,Nill,Nill,223-D,P.U. Socity Phase II,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Abdullah c/o Fahim Saddique,Customer75,Customer75,Nill,Nill,45-E,Punjab Society Phase 2,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Nasir Sb,Customer76,Customer76,Nill,Nill,318-D1,NESPAK,,,Nill,Lahore,,,,,,0,1,1, 110.00 
+,Dr. Khurram Durani,Customer77,Customer77,Nill,Nill,21-A,Canal View,,,Nill,Lahore,,,,,,0,1,1, 130.00 
+,Ameer Ul Azeem,Customer78,Customer78,Nill,Nill,14-A,PIA Society,,,Nill,Lahore,,,,,,0,1,1, 130.00 
+,Abdur Rehman,Customer79,Customer79,Nill,Nill,79-D,Model Town,,,Nill,Lahore,,,,,,0,1,1, 130.00 
+,Muhammad Sb,Customer80,Customer80,Nill,Nill,9-P,Model Town,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Sheikh Sb,Customer81,Customer81,Nill,Nill,193-B,PCSIR Phase 2,,,Nill,Lahore,,,,,,0,1,1, 110.00 
+,Hammad Sb,Customer82,Customer82,Nill,Nill,130-A-F2,Johar Town,,,Nill,Lahore,,,,,,0,1,1, 130.00 
+,Adeel Javed,Customer83,Customer83,Nill,Nill,61-B,Tariq Garden,,,Nill,Lahore,,,,,,0,1,1, 130.00 
+,C/O Muhammad Sb,Customer84,Customer84,Nill,Nill,Green City,,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Hassan Mayo,Customer85,Customer85,Nill,Nill,90-J,DHA,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Wahab Sb,Customer86,Customer86,Nill,Nill,215-D,NESPAK,,,Nill,Lahore,,,,,,0,1,1, 110.00 
+,Haji Ghulam Mustafa Sb,Customer87,Customer87,Nill,Nill,"Block # 76, Flat # 01","Zone A, Labour Colony",,,Nill,Lahore,,,,,,0,1,1, 110.00 
+,Fawad Ali Sb,Customer88,Customer88,Nill,Nill,210-E,Punjab Society Phase 2,,,Nill,Lahore,0302-8287898,,,,,0,1,1, 110.00 
+,Shoaib Sb,Customer89,Customer89,Nill,Nill,105-B,NFC,,,Nill,Lahore,,,,,,0,1,1, 110.00 
+,Ishfaq Sb,Customer90,Customer90,Nill,Nill,99-D,Faisal Town,,,Nill,Lahore,,,,,,0,1,1, 130.00 
+,Mahmood Sb,Customer91,Customer91,Nill,Nill,118-A,Faisal Town,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Qandeel Sb,Customer92,Customer92,Nill,Nill,,Sattokatla,,,Nill,Lahore,,,,,,0,1,1, 130.00 
+,Baji c/o Qari Kashif,Customer93,Customer93,Nill,Nill,186-A,Muslim Town,,,Nill,Lahore,,,,,,0,1,1, 120.00 
+,Ali Durani,Customer94,Customer94,Nill,Nill,121-B,EME,,,Nill,Lahore,,,,,,0,1,1, 130.00 
+,Sayed Kashif Raza,Customer95,Customer95,Nill,Nill,266-D1,NESPAK,,,Nill,Lahore,0334-3997365,,,,,0,1,1, 120.00 
+,Maaz Saddiqui,Customer96,Customer96,Nill,Nill,538-G,Johar Town,,,Nill,Lahore,0322-8011577,,,,,0,1,1, 120.00 
+,Sheikh Adnan,Customer97,Customer97,Nill,Nill,,Motarno Fabric,,,Nill,Lahore,0300-4845232,,,,,0,1,1, 130.00 
+,Mushtaq Mangat,Customer98,Customer98,Nill,Nill,,Faisal Town,,,Nill,Lahore,,,,,,0,1,1, 130.00 
+,Haroon Sb,Customer99,Customer99,Nill,Nill,,,,,Nill,Lahore,,,,,,0,1,1, 120.00 
