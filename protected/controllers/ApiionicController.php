@@ -2448,26 +2448,18 @@ class ApiionicController extends Controller
             smsLog::saveSms($client_id, $company_branch_id, $phoneNo, $fullname, $message);
             $this->sendSMS($phoneNo, $message, $companyMask, $company_branch_id, $network_id);
             if($complaints_notification_yes_now>0){
-
                 $complain_object = ComplainType::model()->findByPk($complain_type_id);
                 $complainb_type_name =  $complain_object['name'];
-
                 $message = 'You have received new Complain from '.$fullname.' about '. $complainb_type_name;
-
                 smsLog::saveSms($client_id, $company_branch_id, $company_phone_number, $fullname, $message);
                 $this->sendSMS($company_phone_number, $message, $companyMask, $company_branch_id, $network_id);
-
                 if($company_branch_id==1){
                     $phoneNo = '+923021118292';
-
                     smsLog::saveSms($client_id ,$company_branch_id ,$phoneNo ,$fullname ,$message);
                     $this->sendSMS($phoneNo , $message , $companyMask ,$company_branch_id , $network_id);
-
                     $phoneNo = '+923341118292';
-
                     smsLog::saveSms($client_id ,$company_branch_id ,$phoneNo ,$fullname ,$message);
                     $this->sendSMS($phoneNo , $message , $companyMask ,$company_branch_id , $network_id);
-
                 }
 
             }
